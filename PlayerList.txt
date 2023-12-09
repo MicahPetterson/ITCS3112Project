@@ -1,0 +1,4 @@
+Cyrrus,100,10.0,2.0,0.6,0.2,0.8,50,Water Spout,Focus,NA
+Glace,70,7.0,2.0,0.95,0.75,0.95,60,Frigid Blast,Ice Sheet,NA
+Ignix,120,15.0,4.0,0.4,0.15,0.7,90,Bolt,Ultrashock,Intimidate
+Nymbus,65,5.0,1.0,0.6,0.3,0.8,100,Cloak,Mend,Hurricane
